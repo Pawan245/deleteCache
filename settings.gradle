@@ -1,0 +1,2 @@
+rootProject.name = "deleteCache"
+include ':app'
